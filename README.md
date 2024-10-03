@@ -43,9 +43,7 @@
 
 ---
 
-### 🐍 Snake Game
-![Snake animation](https://github.com/ghostshreyash/ghostshreyash/blob/output/snake.svg)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=ghostshreyash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/ghostshreyash/ghostshreyash/output/snake.svg" alt="Snake animation" />
+
