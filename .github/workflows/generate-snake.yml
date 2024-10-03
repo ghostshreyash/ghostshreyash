@@ -27,10 +27,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          bg_color: '#161b22' # Set grid color to #161b22
-          hide_loading: true # Hide the loading bar
+            dist/github-contribution-grid-snake.svg
+            
           
       # push the content of <build_dir> to a branch
       - name: push github-contribution-grid-snake.svg to the output branch
