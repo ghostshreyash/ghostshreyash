@@ -44,7 +44,8 @@
 ---
 
 ### 🐍 Snake Game
-![Snake animation](https://raw.githubusercontent.com/ghostshreyash/ghostshreyash/output/snake.svg)
+### 🐍 Snake Game
+![Snake animation](https://github.com/ghostshreyash/ghostshreyash/blob/output/snake.svg)
 
 ---
 
