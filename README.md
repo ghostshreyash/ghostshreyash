@@ -44,7 +44,6 @@
 ---
 
 ### 🐍 Snake Game
-### 🐍 Snake Game
 ![Snake animation](https://github.com/ghostshreyash/ghostshreyash/blob/output/snake.svg)
 
 ---
