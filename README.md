@@ -45,5 +45,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ghostshreyash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/ghostshreyash/ghostshreyash/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ghostshreyash/ghostshreyash/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
