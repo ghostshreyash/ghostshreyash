@@ -27,9 +27,17 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghostshreyash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghostshreyash&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostshreyash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%"/>
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits per language" width="49%"/>
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%"/>
+</p>
 
 ---
 
