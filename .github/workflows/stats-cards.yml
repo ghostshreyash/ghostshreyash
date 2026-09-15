@@ -1,0 +1,28 @@
+name: generate stats cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ghostshreyash
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          THEME: github_dark
+          EXCLUDE_REPOS: create-better-t-stack,plugins-workspace
