@@ -37,17 +37,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ghostshreyash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ghostshreyash&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ghostshreyash&style=flat&color=blue&label=Profile+views)
 
 <img src="https://raw.githubusercontent.com/ghostshreyash/ghostshreyash/output/snake.svg?palette=github-dark" alt="Snake animation" />
 
