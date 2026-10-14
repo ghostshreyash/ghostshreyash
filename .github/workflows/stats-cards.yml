@@ -1,8 +1,8 @@
-name: generate stats cards
+name: generate backup stats cards
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 0 * * 0"
 
   workflow_dispatch:
 
@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # the README reads the live cards from the self-hosted instance; these
+      # committed copies are the fallback if it goes down
       - uses: actions/checkout@v4
 
       - name: generate stats card
