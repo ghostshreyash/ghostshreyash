@@ -31,8 +31,8 @@
   <img src="./profile/streak.svg" alt="GitHub streak" width="70%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-khaki-six-48.vercel.app/api?username=ghostshreyash&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats-khaki-six-48.vercel.app/api/top-langs/?username=ghostshreyash&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&exclude_repo=create-better-t-stack,plugins-workspace" alt="Most used languages" width="41%"/>
+  <img src="./profile/stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="./profile/top-langs.svg" alt="Most used languages" width="41%"/>
 </p>
 
 ---
