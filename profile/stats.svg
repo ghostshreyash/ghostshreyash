@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shreyash Gupta&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 3498, Total PRs: 1087, Total Issues: 4, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 3235, Total PRs: 1087, Total Issues: 4, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 113.2686785968722;
+        stroke-dashoffset: 114.01008022139699;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >3.5k</text>
+      >3.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
